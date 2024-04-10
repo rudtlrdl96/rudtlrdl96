@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.youtube.com/@openglTube/videos" target="_blank"><img src="https://img.shields.io/badge/Youtube-FFFFFF?style=flat-square&logo=youtube.svg&logoColor=000000"/></a>
+<a href="https://www.youtube.com/@openglTube/videos" target="_blank"><img src="https://img.shields.io/badge/Youtube-FFFFFF?style=flat-square&logo=youtube&logoColor=000000"/></a>
